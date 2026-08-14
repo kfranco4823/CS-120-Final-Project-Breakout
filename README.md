@@ -29,10 +29,18 @@ The final run steps have been tested from the immediate root README.
 
 # GitHub Contents
 /Assets
+
 /Breakout
+
 /Screenshot Progress Proof
+
 /Build_Log.md
+
 /Discord Proof.png
+
 /Game Development Document.docx
+
 /Game Logic Flow Chart.png
+
 /README.md
+
