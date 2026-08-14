@@ -19,3 +19,10 @@ Asset sources and permissions are recorded.
 The Git history shows meaningful checkpoints.
 
 The final run steps have been tested from the immediate root README.
+
+# How To Open
+
+1. Locate Breakout Folder
+2. Find MainWindow.xaml.vb to verify code as well as run from within
+3. Click Run
+4. Play Game, Paddle works, Bricks Work, Ball Moves and collision is bug free.
