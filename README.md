@@ -26,3 +26,13 @@ The final run steps have been tested from the immediate root README.
 2. Find MainWindow.xaml.vb to verify code as well as run from within
 3. Click Run
 4. Play Game, Paddle works, Bricks Work, Ball Moves and collision is bug free.
+
+# GitHub Contents
+/Assets
+/Breakout
+/Screenshot Progress Proof
+/Build_Log.md
+/Discord Proof.png
+/Game Development Document.docx
+/Game Logic Flow Chart.png
+/README.md
