@@ -2,7 +2,7 @@
 
 Pom! Pom! Breakout! is attached with all needed files to show proof and prophecy for this project.
 
-#Project Contents
+# Project Contents
 
 Source code, project files, solution files, scenes, and required assets are included.
 
