@@ -32,27 +32,48 @@ The final run steps have been tested from the immediate root README.
 # Assets Folder: Background.png
 
 # Breakout Folder: 
+
 My Project
+
 bin/Debug
+
 obj/Debug
+
 App.config
+
 Application.xaml
+
 Application.xaml.vb
+
 Background.png
+
 BreakOut.slnx
+
 BreakOut.vbproj
+
 MainWindow.xaml
+
 MainWindow.xaml.vb
 
+
 # Screenshot Progress Proof
+
 Part 1.png
+
 Part 2 The Game.png
+
 Part 3 The Paddle.png
+
 Part 4 The Ball.png
+
 Part 5 Collision Hit Test.png
+
 Part 6 Wall Collision.png
+
 Part 7 Making Bricks.png
+
 Part 8 Brake Bricks.png
+
 
 /Build_Log.md
 
