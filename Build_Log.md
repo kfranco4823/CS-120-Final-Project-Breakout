@@ -70,7 +70,7 @@ Breakout game works as intended, all evidence is located in proper folder and do
 - Screenshot filename: Part 4 The Ball.PNG, Part 5 Collision Hit Test.PNG, Part 6 Wall Collision.PNG, Part 7 Making Bricks.PNG, Part 8 Brake Bricks.PNG, Game Development Document.docx, Discord Proof.png
 - Document updated:DailyBuildLog.MD
 - Commit message:Added files by update
-- Commit ID:
+- Commit ID: 82dc091
 
 ---
 
